@@ -1,0 +1,56 @@
+# Keil/MDK build artifacts and IDE/user files
+
+# Keil/MDK output folders
+/LK7025/
+/DebugConfig/
+/MDK-ARM/
+/Target/
+/Build/
+/Objects/
+
+# Common compiled/output files
+*.axf
+*.axf.*
+*.bin
+*.hex
+*.elf
+*.map
+*.lnp
+*.lnk
+*.dep
+*.d
+*.o
+*.obj
+*.ilk
+*.lst
+*.sct
+*.lss
+
+# Keil uVision workspace settings (user-specific)
+*.uvoptx
+*.uvguix.makabaka
+
+# IDE/editor
+.vscode/
+.idea/
+*.suo
+*.user
+*.sdf
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp/swap
+*~
+*.swp
+*.tmp
+
+# Logs and backups
+*.log
+*.bak
+
+# Misc
+tags
+__pycache__/
